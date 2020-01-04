@@ -1,24 +1,24 @@
 import os
 
 
-def 123():
+def v2_123():
     print("789")
     print("111")
 
 
-def 555():
+def v2_555():
     log(aaa)
 
-def 666():
+def v2_666():
     66666
 
-def 777():
+def v2_777():
     87
 
-def 888():
+def v2_888():
     888
 
-def 999():
+def v2_999():
     999
     
 def aaa():
